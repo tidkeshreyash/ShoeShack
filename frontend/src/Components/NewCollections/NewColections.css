@@ -3,9 +3,9 @@
     flex-direction: column;
     align-items: center;
     gap: 10px;
-    height: 150vh;
     overflow: hidden;
     margin: 30px;
+    margin-bottom: 100px;
 }
 
 .newcollections h1{
