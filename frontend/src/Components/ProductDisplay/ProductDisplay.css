@@ -25,6 +25,7 @@
 
 .productdisplay-right{
     margin: 0px 65px;
+    margin-right: 0px;
     display: flex;
     flex-direction: column;
 }
@@ -98,13 +99,13 @@
 }
 
 .productdisplay-right-category{
+    margin-top: 0px;
+}
+
+.productdisplay-right-category.mg{
     margin-top: 10px;
 }
 
 .productdisplay-right-category span{
     font-weight: 600;
-}
-
-.productdisplay-right-category span:nth-child(2){
-    margin-left: 30px;
 }
